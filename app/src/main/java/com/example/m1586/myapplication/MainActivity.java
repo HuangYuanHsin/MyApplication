@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else {
 
-                    errorMessage.setText("");
+                    //errorMessage.setText("");
 
                 }
 
